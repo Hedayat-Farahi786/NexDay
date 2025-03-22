@@ -32,7 +32,7 @@ const AppSidebar = () => {
       <SidebarHeader className="border-b py-4">
         <div className="flex items-center px-3 navbar-logo">
           <CheckSquare className="h-6 w-6 text-primary" />
-          <span className="ml-2 font-bold text-xl">Daily Checklist</span>
+          <span className="ml-2 font-bold text-xl">NexDay</span>
         </div>
       </SidebarHeader>
       

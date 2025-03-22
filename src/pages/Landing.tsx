@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { CheckSquare, ArrowRight, Calendar, LineChart, CheckCircle, Sparkles } from "lucide-react";
+import { CheckSquare, ArrowRight, Calendar, LineChart, CheckCircle, Sparkles, Heart } from "lucide-react";
 import { motion } from "framer-motion";
 
 interface LandingProps {
