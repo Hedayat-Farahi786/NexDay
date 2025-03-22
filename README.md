@@ -1,8 +1,8 @@
-# Welcome to NexDay!
+# NexDay: A Modern Daily Checklist App
 
-<!-- ## Project info
+## Project info
 
-**URL**: https://lovable.dev/projects/63c04bd6-b798-4ef2-9966-764ea2d3a00d -->
+NexDay is a sleek, minimalistic web app designed to elevate your daily routine. Manage tasks, track mood and productivity, and reflect on gratitude and lessons with a card-based UI, light/dark mode, icons, and smooth animations. Features include task tracking, history, analytics, and PDF export. NexDay is responsive and feature-rich for seamless productivity.
 
 ## How can I edit this code?
 
